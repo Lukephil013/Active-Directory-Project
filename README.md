@@ -11,7 +11,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 - **Static IP:** `192.168.10.10`  
 
 ### Screenshots
-- [Server Manager – Roles](./screenshots/server-manager-roles.png)
+- ![Server Manager – Roles](./screenshots/server-manager-roles.png)
 - ![ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
 - ![DNS Zone](./screenshots/dns-forward-zone.png)
 - ![DHCP Scope](./screenshots/dhcp-scope.png)
