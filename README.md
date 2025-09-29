@@ -33,7 +33,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 ![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
 
 ### GPO – Folder Redirection
-![GPO – Folder Redirection](./screenshots/folder-redirection.png)
+![GPO – Folder Redirection](./screenshots/folder-redirection-gpo.png)
 
 
 ---
