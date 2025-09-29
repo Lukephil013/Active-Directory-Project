@@ -12,13 +12,13 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 
 ### Screenshots
 - [Server Manager – Roles](./screenshots/server-roles.png)
-- ![ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
-- ![DNS Zone](./screenshots/dns-forward-zone.png)
-- ![DHCP Scope](./screenshots/dhcp-scope.png)
-- ![GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
-- ![GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
-- ![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
-- ![GPO – Folder Redirection](./screenshots/folder-redirection.png)
+- [ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
+- [DNS Zone](./screenshots/dns-forward-zone.png)
+- [DHCP Scope](./screenshots/dhcp-scope.png)
+- [GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
+- [GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
+- [GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
+- [GPO – Folder Redirection](./screenshots/folder-redirection.png)
 
 ---
 
