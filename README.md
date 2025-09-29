@@ -46,7 +46,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 
 ### Screenshots
 #### DHCP Lease
-![DHCP Lease](./screenshots/dhcp-lease.png)
+![DHCP Lease](./screenshots/ws01-dhcp-lease.png)
 
 #### Domain Join
 ![Domain Join](./screenshots/ws01-domain-join.png)
@@ -55,7 +55,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 ![Login](./screenshots/ws01-login.png)
 
 #### Wallpaper Applied
-![Wallpaper Applied](./screenshots/ws01-wallpaper.png)
+![Wallpaper Applied](./screenshots/ws01-desktop-wallpaper.png)
 
 ---
 
