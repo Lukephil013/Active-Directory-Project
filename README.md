@@ -11,14 +11,14 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 - **Static IP:** `192.168.10.10`  
 
 ### Screenshots
-- ![Server Manager – Roles](./screenshots/server-roles.png)
-- [ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
-- [DNS Zone](./screenshots/dns-forward-zone.png)
-- [DHCP Scope](./screenshots/dhcp-scope.png)
-- [GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
-- [GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
-- [GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
-- [GPO – Folder Redirection](./screenshots/folder-redirection.png)
+- ![Server Manager – Roles](./screenshots/server-manager-roles.png)
+- ![ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
+- ![DNS Zone](./screenshots/dns-forward-zone.png)
+- ![DHCP Scope](./screenshots/dhcp-scope.png)
+- ![GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
+- ![GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
+- ![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
+- ![GPO – Folder Redirection](./screenshots/folder-redirection.png)
 
 ---
 
