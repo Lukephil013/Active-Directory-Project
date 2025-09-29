@@ -35,6 +35,8 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 ### GPO – Folder Redirection
 ![GPO – Folder Redirection](./screenshots/folder-redirection-gpo.png)
 
+### OUs Script Execution
+![OUs Script Execution])(./screenshots/ou-script-execution.png)
 
 ---
 
@@ -69,6 +71,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
   - Enforce password complexity
   - Folder redirection
 - Client domain join and login
+- UO Script Usage
 
 ---
 
@@ -81,5 +84,3 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 6. Join client machines (e.g., Windows 10) to the domain.  
 
 ---
-
-## Repository Structure
