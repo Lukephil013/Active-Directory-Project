@@ -36,7 +36,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 ![GPO – Folder Redirection](./screenshots/folder-redirection-gpo.png)
 
 ### OUs Script Execution
-![OUs Script Execution])(./screenshots/ou-script-execution.png)
+![OUs Script Execution](./screenshots/ou-script-execution.png)
 
 ---
 
