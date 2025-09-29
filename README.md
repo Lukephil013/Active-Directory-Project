@@ -11,14 +11,30 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 - **Static IP:** `192.168.10.10`  
 
 ### Screenshots
-- ![Server Manager – Roles](./screenshots/server-manager-roles.png)
-- ![ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
-- ![DNS Zone](./screenshots/dns-forward-zone.png)
-- ![DHCP Scope](./screenshots/dhcp-scope.png)
-- ![GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
-- ![GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
-- ![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
-- ![GPO – Folder Redirection](./screenshots/folder-redirection.png)
+### Server Manager – Roles
+![Server Manager – Roles](./screenshots/server-manager-roles.png)
+
+### ADUC – Users/Groups
+![ADUC – Users/Groups](./screenshots/aduc-users-groups.png)
+
+### DNS Zone
+![DNS Zone](./screenshots/dns-forward-zone.png)
+
+### DHCP Scope
+![DHCP Scope](./screenshots/dhcp-scope.png)
+
+### GPO – Wallpaper
+![GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
+
+### GPO – Disable Control Panel
+![GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
+
+### GPO – Password Complexity
+![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
+
+### GPO – Folder Redirection
+![GPO – Folder Redirection](./screenshots/folder-redirection.png)
+
 
 ---
 
@@ -29,10 +45,17 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 - Logs in with domain test accounts (e.g. `HOMELAB\testuser1`)
 
 ### Screenshots
-- ![DHCP Lease](./screenshots/dhcp-lease.png)
-- ![Domain Join](./screenshots/ws01-domain-join.png)
-- ![Login](./screenshots/ws01-login.png)
-- ![Wallpaper Applied](./screenshots/ws01-wallpaper.png)
+#### DHCP Lease
+![DHCP Lease](./screenshots/dhcp-lease.png)
+
+#### Domain Join
+![Domain Join](./screenshots/ws01-domain-join.png)
+
+#### Login
+![Login](./screenshots/ws01-login.png)
+
+#### Wallpaper Applied
+![Wallpaper Applied](./screenshots/ws01-wallpaper.png)
 
 ---
 
