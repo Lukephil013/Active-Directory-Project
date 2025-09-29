@@ -27,7 +27,7 @@ A home lab project exploring the basics of Active Directory, DNS, DHCP, and Grou
 ![GPO – Wallpaper](./screenshots/gpo-wallpaper.png)
 
 ### GPO – Disable Control Panel
-![GPO – Disable Control Panel](./screenshots/gpo-disable-control-panel.png)
+![GPO – Disable Control Panel](./screenshots/gpo-disable-controlpanel.png)
 
 ### GPO – Password Complexity
 ![GPO – Password Complexity](./screenshots/gpo-password-complexity.png)
